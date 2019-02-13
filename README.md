@@ -2,16 +2,11 @@
 
 #### [序言](chapters/preface.md)
 #### [第一章 中心之国 神传文化](chapters/c1.md)
-#### [第二章 红魔阴谋 毁灭人类（上）](chapters/c2p1.md)
-#### [第二章 红魔阴谋 毁灭人类（下）](chapters/c2p2.md)
-#### [第三章 暴力杀戮 恶贯穹宇（上）](chapters/c3p1.md)
-#### [第三章 暴力杀戮 恶贯穹宇（下）](chapters/c3p2.md)
-#### [第四章 共产邪灵 毁人不倦（上）](chapters/c4p1.md)
-#### [第四章 共产邪灵 毁人不倦（下）](chapters/c4p2.md)
-#### [第五章 邪灵篡位 文化沦丧（上）](chapters/c5p1.md)
-#### [第五章 邪灵篡位 文化沦丧（下）](chapters/c5p2.md)
-#### [第六章 以“恨”立国 国已不国（上）](chapters/c6p1.md)
-#### [第六章 以“恨”立国 国已不国（下）](chapters/c6p2.md)
+#### 第二章 红魔阴谋 毁灭人类[（上）](chapters/c2p1.md)、[（下）](chapters/c2p2.md)
+#### 第三章 暴力杀戮 恶贯穹宇[（上）](chapters/c3p1.md)、[（下）](chapters/c3p2.md)
+#### 第四章 共产邪灵 毁人不倦[（上）](chapters/c4p1.md)、[（下）](chapters/c4p2.md)
+#### 第五章 邪灵篡位 文化沦丧[（上）](chapters/c5p1.md)、[（下）](chapters/c5p2.md)
+#### 第六章 以“恨”立国 国已不国[（上）](chapters/c6p1.md)、[（下）](chapters/c6p2.md)
 #### [结语](chapters/conclusion.md)
 
 ---
