@@ -10,7 +10,7 @@
 #### [结语](chapters/conclusion.md)
 
 ---
-#### [手机图片版（方便保存和传播）](png.md)
+#### [《共产主义的终极目的》视频](http://167.71.119.71:10000/videos/res/zjmd/) &nbsp;&nbsp;|&nbsp;&nbsp; [手机图片版](png.md)
 
 ---
 
