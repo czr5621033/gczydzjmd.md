@@ -10,7 +10,7 @@
 #### [结语](chapters/conclusion.md)
 
 ---
-#### 《共产主义的终极目的》电子书下载：[TXT版](https://cdn.jsdelivr.net/gh/gfw-breaker/gczydzjmd.md/resources/gczy.txt) &nbsp;|&nbsp; [PDF版](https://cdn.jsdelivr.net/gh/gfw-breaker/gczydzjmd.md/resources/gczy.pdf) &nbsp;|&nbsp; [EPUB版](https://cdn.jsdelivr.net/gh/gfw-breaker/gczydzjmd.md/resources/gczy.epub)
+#### 《共产主义的终极目的》电子书下载：[TXT版](https://cdn.jsdelivr.net/gh/gfw-breaker/gczydzjmd.md/resources/gczy-new.txt) &nbsp;|&nbsp; [PDF版](https://cdn.jsdelivr.net/gh/gfw-breaker/gczydzjmd.md/resources/gczy.pdf) &nbsp;|&nbsp; [EPUB版](https://cdn.jsdelivr.net/gh/gfw-breaker/gczydzjmd.md/resources/gczy.epub)
 ---
 
 《共产主义的终极目的——中国篇》是继《九评共产党》之后的又一宏篇巨制，自2017年11月19日起在大纪元新闻网首发，赢得广大读者的赞誉。
